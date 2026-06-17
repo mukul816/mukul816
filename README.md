@@ -144,8 +144,8 @@ For most of my projects, I follow this workflow:
 ## 📫 Connect With Me
 
 * GitHub: github.com/mukul816
-* LinkedIn: Add your LinkedIn profile link here
-* Email: Add your professional email here
+* LinkedIn: www.linkedin.com/in/mukul-girdhar-560333357
+* Email: mukulgirdhar2734@gmail.com
 
 ---
 
