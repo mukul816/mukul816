@@ -2,7 +2,7 @@
 
 ## Aspiring Data Analyst | SQL | Power BI | Python | Excel | Business Analytics
 
-I am an aspiring **Data Analyst** with an Economics background and hands-on experience in **SQL, Power BI, Python, Excel, and basic Machine Learning**. I have learned how to work with data using SQL queries, create dashboards using Power BI, perform analysis using Python, and present insights in a business-friendly way.
+I am an aspiring **Data Analyst** with an Economics background and hands-on experience in **SQL, Power BI, Python, Excel, and  Machine Learning**. I have learned how to work with data using SQL queries, create dashboards using Power BI, perform analysis using Python, and present insights in a business-friendly way.
 
 My goal is to start my career in **Data Analytics, Business Intelligence, and Data-driven Decision Making**.
 
