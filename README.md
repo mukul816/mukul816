@@ -1,4 +1,4 @@
-# Hi, I'm Mukul Girdhar
+# Hi, I'm Mukul 
 
 ## Aspiring Data Analyst | SQL | Python | Power BI | Excel
 
@@ -107,5 +107,7 @@ My goal is to apply my analytical skills, economics background, and project expe
 ## Connect With Me
 
 **GitHub:** github.com/mukul816
+
 **LinkedIn:** linkedin.com/in/mukul-girdhar-560333357
+
 **Email:** [mukulgirdhar2734@gmail.com](mailto:mukulgirdhar2734@gmail.com)
