@@ -1,155 +1,111 @@
-# Hi, I'm Mukul 👋
+# Hi, I'm Mukul Girdhar
 
-## Aspiring Data Analyst | SQL | Power BI | Python | Excel | Business Analytics
+## Aspiring Data Analyst | SQL | Python | Power BI | Excel
 
-I am an aspiring **Data Analyst** with an Economics background and hands-on experience in **SQL, Power BI, Python, Excel, and  Machine Learning**. I have learned how to work with data using SQL queries, create dashboards using Power BI, perform analysis using Python, and present insights in a business-friendly way.
+I am an aspiring Data Analyst with an academic background in Economics and hands-on experience in data analysis, business intelligence, dashboard development, SQL analytics, and machine learning fundamentals.
 
-My goal is to start my career in **Data Analytics, Business Intelligence, and Data-driven Decision Making**.
-
----
-
-## 🚀 About Me
-
-* 🎓 Economics postgraduate with strong interest in Data Analytics and Business Intelligence
-* 📊 Learned and practiced **SQL, Power BI, Python, Excel, and basic Machine Learning**
-* 🧹 Skilled in data cleaning, exploratory data analysis, dashboard creation, and reporting
-* 📈 Able to analyze business data and convert it into useful insights and recommendations
-* 💼 Looking for opportunities as a **Data Analyst Intern, Junior Data Analyst, MIS Analyst, Reporting Analyst, or Business Analyst Intern**
-* 📌 Focused on building practical projects that solve real business problems
+I enjoy working with data to identify trends, solve business problems, and convert raw datasets into clear, actionable insights. My projects focus on real-world business areas such as e-commerce analysis, credit risk reporting, customer behavior analysis, workforce analytics, forecasting, and dashboard-based reporting.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### Data Analysis & Programming
+**Data Analysis & Programming:**
+Python, Pandas, NumPy, SQL, Data Cleaning, Data Preprocessing, Exploratory Data Analysis, Feature Engineering
 
-* Python
-* Pandas
-* NumPy
-* SQL
-* Excel
-* Google Sheets
+**Business Intelligence & Visualization:**
+Power BI, Microsoft Excel, Power Query, DAX, Pivot Tables, KPI Dashboards, Data Visualization, Data Storytelling
 
-### SQL & Database Skills
+**Machine Learning & Statistics:**
+Regression, Classification, Clustering, Forecasting, Customer Segmentation, Churn Prediction, Model Evaluation, Statistics
 
-* Joins
-* CTEs
-* Window Functions
-* Aggregations
-* Subqueries
-* Filtering and Grouping
-* Business Query Writing
-* Sales and Customer Analysis using SQL
+**Tools & Platforms:**
+Jupyter Notebook, Git, GitHub, SQLite, MS Excel, PowerPoint, Tableau Fundamentals
 
-### Power BI & Business Intelligence
-
-* Power BI Desktop
-* Data Cleaning and Transformation
-* Data Modeling
-* KPI Cards
-* Slicers and Filters
-* Interactive Dashboards
-* Business Reports
-* Dashboard Storytelling
-
-### Data Visualization
-
-* Power BI Dashboards
-* Excel Dashboards
-* Matplotlib
-* Seaborn
-* Charts and Reports
-
-### Machine Learning Basics
-
-* Regression
-* Classification
-* Forecasting
-* Customer Segmentation
-* Model Evaluation
-* Basic NLP
-
-### Tools
-
-* Jupyter Notebook
-* Power BI Desktop
-* Microsoft Excel
-* GitHub
-* VS Code
+**Business & Analytical Skills:**
+Problem Solving, Analytical Thinking, Business Insights, Stakeholder Reporting, Recommendation Building
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-| Project                                        | Tools Used                 | Description                                                                                                                                                          |
-| ---------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **E-Commerce Product Intelligence Platform**   | Python, ML, NLP, Analytics | Built a complete analytics project covering customer behavior, product recommendation, churn analysis, sentiment analysis, demand forecasting, and business insights |
-| **Bike Store SQL Analytics**                   | SQL                        | Performed SQL-based analysis on retail sales data using joins, CTEs, window functions, aggregations, and business-focused queries                                    |
-| **Customer Churn Analysis Dashboard**          | Power BI                   | Created an interactive Power BI dashboard to analyze churn patterns, customer behavior, and customer retention factors                                               |
-| **Threads Ltd. Company Performance Dashboard** | Power BI                   | Built a business performance dashboard to track sales, revenue, profit, product performance, and regional trends                                                     |
-| **AI Impact on Jobs 2030 Excel Dashboard**     | Excel                      | Developed an Excel dashboard to analyze AI risk, salary trends, job growth, automation impact, and industry-wise workforce changes                                   |
-| **Amazon Sales Data Analysis**                 | Python                     | Analyzed sales trends, product performance, customer behavior, and revenue patterns using Python-based EDA                                                           |
-| **SpaceX Launch Prediction Project**           | Python, Data Analysis, ML  | Analyzed SpaceX launch data, performed exploratory data analysis, visualization, and basic machine learning to predict launch success                                |
+### Credit Risk Loan Portfolio Power BI Report
+
+Developed an interactive Power BI dashboard to analyze loan portfolio exposure, borrower risk profiles, default rate, repayment behavior, loan grades, and portfolio performance.
+
+**Skills Used:** Power BI, Power Query, DAX, KPI Reporting, Credit Risk Analysis, Dashboard Design
 
 ---
 
-## 📊 What I Can Do
+### Advanced SQL E-Commerce Business Analysis
 
-* Clean and prepare raw datasets for analysis
-* Write SQL queries to solve business problems
-* Analyze sales, customer, product, and operational data
-* Build interactive Power BI dashboards and reports
-* Create Excel dashboards using pivot tables, charts, and KPIs
-* Use Python for data cleaning, EDA, visualization, and basic machine learning
-* Present insights clearly with business recommendations
-* Convert raw data into meaningful reports for decision-making
+Performed SQL-based business analysis on e-commerce data using joins, CTEs, views, aggregations, window functions, RFM segmentation, delivery analysis, and review impact analysis.
+
+**Skills Used:** SQL, SQLite, CTEs, Window Functions, Customer Analysis, Revenue Analysis, Business Insights
 
 ---
 
-## 📈 Current Learning Focus
+### E-Commerce Product Intelligence Platform
 
-I am currently improving my skills in:
+Built an end-to-end analytics and machine learning project using customer, product, transaction, review, and revenue datasets to analyze customer behavior, product performance, forecasting, churn, and segmentation.
 
-* Advanced SQL queries
-* Power BI DAX
-* Power Query Editor
-* Data Modeling in Power BI
-* Dashboard storytelling
-* Real-world business analytics projects
-* End-to-end data analytics workflow
-* Interview preparation for Data Analyst roles
+**Skills Used:** Python, Pandas, NumPy, Machine Learning, EDA, Forecasting, Customer Segmentation
 
 ---
 
-## 🎯 Career Objective
+### Customer Churn Analysis – Power BI
 
-To start my career as a **Data Analyst** where I can apply my knowledge of **SQL, Power BI, Python, Excel, and business analytics** to solve real-world problems, create meaningful dashboards, analyze business performance, and support data-driven decision-making.
+Created a Power BI dashboard to analyze customer churn patterns, identify high-risk customer segments, and present insights through interactive visuals and KPI reporting.
 
----
-
-## 🧩 Project Approach I Follow
-
-For most of my projects, I follow this workflow:
-
-1. Understand the business problem
-2. Collect and explore the dataset
-3. Clean and transform the data
-4. Analyze the data using SQL, Excel, Python, or Power BI
-5. Build visual reports or dashboards
-6. Identify key insights
-7. Provide business recommendations
+**Skills Used:** Power BI, Data Visualization, Churn Analysis, KPI Dashboarding, Business Reporting
 
 ---
 
-## 📫 Connect With Me
+### AI Impact on Jobs 2030 – Excel Dashboard
 
-* GitHub: github.com/mukul816
-* LinkedIn: www.linkedin.com/in/mukul-girdhar-560333357
-* Email: mukulgirdhar2734@gmail.com
+Analyzed workforce data to evaluate AI replacement risk, projected job growth, salary trends, and future workforce demand across industries using Excel dashboards.
+
+**Skills Used:** Excel, Pivot Tables, Charts, Slicers, Workforce Analytics, Dashboard Reporting
 
 ---
 
-## ⭐ Thank You for Visiting My Profile
+### Amazon Sales Data Analysis
 
-I am continuously improving my skills and building practical projects to become a job-ready Data Analyst.
-Feel free to explore my repositories and connect with me for opportunities, feedback, or collaboration.
+Performed exploratory data analysis on Amazon sales data to identify sales trends, product performance, category-level insights, and business opportunities.
+
+**Skills Used:** Python, Pandas, Matplotlib, Seaborn, EDA, Sales Analysis
+
+---
+
+## What I Can Do
+
+* Clean, transform, and analyze structured datasets
+* Write SQL queries for business analysis and reporting
+* Build interactive dashboards using Power BI and Excel
+* Perform exploratory data analysis using Python
+* Analyze customer behavior, sales trends, risk patterns, and business performance
+* Create KPI reports and present insights in a clear, business-focused way
+* Apply machine learning fundamentals for segmentation, forecasting, and prediction tasks
+
+---
+
+## Career Focus
+
+I am actively looking for entry-level opportunities in:
+
+* Data Analyst
+* Business Analyst
+* BI Analyst
+* MIS Analyst
+* Data Analytics Intern
+* Junior Data Analyst
+
+My goal is to apply my analytical skills, economics background, and project experience to support data-driven decision-making in a professional environment.
+
+---
+
+## Connect With Me
+
+**GitHub:** github.com/mukul816
+**LinkedIn:** linkedin.com/in/mukul-girdhar-560333357
+**Email:** [mukulgirdhar2734@gmail.com](mailto:mukulgirdhar2734@gmail.com)
