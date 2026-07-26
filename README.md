@@ -1,6 +1,6 @@
 # Hi, I'm Mukul 
 
-## Aspiring Data Analyst | SQL | Python | Power BI | Excel
+## Aspiring Data Analyst |Economist| SQL | Python | Power BI | Excel
 
 I am an aspiring Data Analyst with an academic background in Economics and hands-on experience in data analysis, business intelligence, dashboard development, SQL analytics, and machine learning fundamentals.
 
