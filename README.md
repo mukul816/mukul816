@@ -21,33 +21,35 @@ Business & Analytical Skills: Problem Solving, Analytical Thinking, Economic Rea
 M.A. Economics — Central University of Haryana (2024–2026)
 B.A. Economics (Honours) — Government National College (2021–2024)
 📊 Featured Projects
-Impact of UPI-Based Digital Payment Expansion on Household Consumption (PFCE) in India — M.A. Dissertation
 
-Applied econometric research examining whether UPI digital payment growth significantly influenced household consumption expenditure in India, controlling for inflation (CPI) and interest rates (Repo Rate). Used quarterly time-series data (2016–2026) and an ARDL model with unit root tests, bounds testing, an Error Correction Model, and full diagnostic testing. Key Finding: UPI expansion changed how Indians pay but had no statistically significant effect on aggregate consumption. Skills used: Stata, ARDL Modeling, Time-Series Econometrics, Bounds Testing, ECM, Excel, Power BI
+Impact of UPI-Based Digital Payment Expansion on Household Consumption (PFCE) in India — M.A. Dissertation
+Applied econometric research examining whether UPI digital payment growth significantly influenced household consumption expenditure in India, controlling for inflation (CPI) and interest rates (Repo Rate). Used quarterly time-series data (2016–2026) and an ARDL model with unit root tests, bounds testing, an Error Correction Model, and full diagnostic testing.
+Key Finding: UPI expansion changed how Indians pay but had no statistically significant effect on aggregate consumption.
+Skills used: Stata, ARDL Modeling, Time-Series Econometrics, Bounds Testing, ECM, Excel, Power BI
 
 Credit Risk Loan Portfolio — Power BI Report
-
-Interactive Power BI dashboard analyzing loan portfolio exposure, borrower risk profiles, default rate, repayment behavior, and loan grades. Skills used: Power BI, Power Query, DAX, KPI Reporting, Credit Risk Analysis
+Interactive Power BI dashboard analyzing loan portfolio exposure, borrower risk profiles, default rate, repayment behavior, and loan grades.
+Skills used: Power BI, Power Query, DAX, KPI Reporting, Credit Risk Analysis
 
 Advanced SQL E-Commerce Business Analysis
-
-SQL-based analysis of the Olist e-commerce dataset (99,441 orders, 96,096 customers, 3,095 sellers, $15.4M+ revenue) using joins, CTEs, views, window functions, RFM segmentation, and delivery/review impact analysis. Skills used: SQL, SQLite, CTEs, Window Functions, Customer & Revenue Analysis
+SQL-based analysis of the Olist e-commerce dataset (99,441 orders, 96,096 customers, 3,095 sellers, $15.4M+ revenue) using joins, CTEs, views, window functions, RFM segmentation, and delivery/review impact analysis.
+Skills used: SQL, SQLite, CTEs, Window Functions, Customer & Revenue Analysis
 
 E-Commerce Product Intelligence Platform
-
-End-to-end analytics and ML project covering customer behavior, product performance, forecasting, churn prediction, and segmentation, plus NLP and RAG components. Skills used: Python, Pandas, NumPy, Machine Learning, EDA, Forecasting, Customer Segmentation
+End-to-end analytics and ML project covering customer behavior, product performance, forecasting, churn prediction, and segmentation, plus NLP and RAG components.
+Skills used: Python, Pandas, NumPy, Machine Learning, EDA, Forecasting, Customer Segmentation
 
 Customer Churn Analysis — Power BI
-
-Power BI dashboard identifying churn patterns, high-risk customer segments, and retention drivers across service usage, contract types, and payment methods. Skills used: Power BI, Data Visualization, Churn Analysis, KPI Dashboarding
+Power BI dashboard identifying churn patterns, high-risk customer segments, and retention drivers across service usage, contract types, and payment methods.
+Skills used: Power BI, Data Visualization, Churn Analysis, KPI Dashboarding
 
 AI Impact on Jobs 2030 — Excel Dashboard
-
-Workforce analytics dashboard evaluating AI automation risk, job growth projections, salary trends, and future demand across industries. Skills used: Excel, Pivot Tables, Slicers, Workforce Analytics
+Workforce analytics dashboard evaluating AI automation risk, job growth projections, salary trends, and future demand across industries.
+Skills used: Excel, Pivot Tables, Slicers, Workforce Analytics
 
 Amazon Sales Data Analysis
-
-Exploratory data analysis on Amazon sales data to identify trends, product performance, and category-level business opportunities. Skills used: Python, Pandas, Matplotlib, Seaborn, EDA
+Exploratory data analysis on Amazon sales data to identify trends, product performance, and category-level business opportunities.
+Skills used: Python, Pandas, Matplotlib, Seaborn, EDA
 
 💡 What I Can Do
 Design and estimate econometric models (ARDL, regression, time-series) using Stata and SPSS
@@ -60,7 +62,8 @@ Analyze customer behavior, sales trends, risk patterns, and macroeconomic trends
 Apply machine learning fundamentals for segmentation, forecasting, and prediction
 🎯 Career Focus
 
-Actively seeking entry-level opportunities in: Data Analyst · Business Analyst · BI Analyst · Economic/Research Analyst · MIS Analyst · Junior Data Analyst
+Actively seeking entry-level opportunities in:
+Data Analyst · Business Analyst · BI Analyst · Economic/Research Analyst · MIS Analyst · Junior Data Analyst
 
 📫 Connect With Me
 GitHub: github.com/mukul816
