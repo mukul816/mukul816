@@ -1,97 +1,93 @@
 # Hi, I'm Mukul 👋
 
-## Data & Business Analyst | Economist | SQL • Python • Power BI • Tableau • Excel
+## Data & Business Analyst | Applied Economist | SQL · Python · Power BI · Excel
 
-I'm a Data & Business Analyst with an academic background in Economics (M.A., Central University of Haryana). I turn raw data into clear, decision-ready insights — blending applied economic research (time-series econometrics, policy analysis) with business analytics (BI dashboards, SQL reporting, forecasting, and customer/risk analysis).
+I'm a Data & Business Analyst with an academic foundation in Economics (M.A.) that shapes how I approach every problem: start with the business question, find the right data, test it rigorously, and turn the answer into a recommendation someone can act on.
 
----
-
-## 🛠️ Technical Skills
-
-**Data Analysis & Programming:** Python, Pandas, NumPy, SQL, Data Cleaning, Data Preprocessing, Exploratory Data Analysis, Feature Engineering
-
-**Business Intelligence & Visualization:** Power BI, Tableau, Microsoft Excel, Power Query, DAX, Pivot Tables, KPI Dashboards, Data Storytelling
-
-**Economics & Econometrics:** Stata, SPSS, Time-Series Analysis, ARDL Modeling, Unit Root / Stationarity Testing (ADF), Cointegration & Bounds Testing, Error Correction Models (ECM), Regression & Hypothesis Testing, Diagnostic Testing
-
-**Machine Learning & Statistics:** Regression, Classification, Clustering, Forecasting, Customer Segmentation, Churn Prediction, Applied Statistics
-
-**Tools & Platforms:** Jupyter Notebook, Git, GitHub, SQLite, MS Excel, PowerPoint
-
-**Business & Analytical Skills:** Problem Solving, Analytical Thinking, Economic Reasoning, Stakeholder Reporting, Recommendation Building
+I work across two connected skill sets — **business analysis** (requirements gathering, stakeholder reporting, KPI design, process and risk analysis) and **technical analytics** (SQL, Python, Power BI, econometrics) — which means I can go from "what does the business need to know" all the way to "here's the dashboard/model that proves it."
 
 ---
 
-## 🎓 Education
+## Business Analysis Skills
 
-- **M.A. Economics** — Central University of Haryana (2024–2026)
-- **B.A. Economics (Honours)** — Government National College (2021–2024)
+- **Requirements & Discovery:** Requirement analysis, assumption identification, 5W1H stakeholder/SME questioning, translating one-line business needs into structured requirements
+- **Requirements Documentation:** User stories, acceptance criteria (Given/When/Then), use case specifications, business rules, functional requirements
+- **Process Modeling:** Main/alternate/exception flow mapping, wireframing, activity diagrams, requirement traceability
+- **Process & Risk Analysis:** Credit risk assessment, portfolio performance monitoring, churn and retention analysis, workforce/operational analytics
+- **Business Intelligence:** Power BI, DAX, Power Query, Excel (Pivot Tables, dashboards, slicers), Tableau fundamentals
+- **Insight Communication:** Data storytelling, executive-ready reporting, recommendation building, presenting findings to non-technical stakeholders
 
----
+## Technical & Analytical Skills
 
-## 📊 Featured Projects
-
-### Impact of UPI-Based Digital Payment Expansion on Household Consumption (PFCE) in India — M.A. Dissertation
-Applied econometric research examining whether UPI digital payment growth significantly influenced household consumption expenditure in India, controlling for inflation (CPI) and interest rates (Repo Rate). Used quarterly time-series data (2016–2026) and an **ARDL model** with unit root tests, bounds testing, an Error Correction Model, and full diagnostic testing.
-
-**Key Finding:** UPI expansion changed *how* Indians pay but had no statistically significant effect on aggregate consumption.
-
-**Skills used:** Stata, ARDL Modeling, Time-Series Econometrics, Bounds Testing, ECM, Excel, Power BI
-
-### Credit Risk Loan Portfolio — Power BI Report
-Interactive Power BI dashboard analyzing loan portfolio exposure, borrower risk profiles, default rate, repayment behavior, and loan grades.
-
-**Skills used:** Power BI, Power Query, DAX, KPI Reporting, Credit Risk Analysis
-
-### Advanced SQL E-Commerce Business Analysis
-SQL-based analysis of the Olist e-commerce dataset (99,441 orders, 96,096 customers, 3,095 sellers, $15.4M+ revenue) using joins, CTEs, views, window functions, RFM segmentation, and delivery/review impact analysis.
-
-**Skills used:** SQL, SQLite, CTEs, Window Functions, Customer & Revenue Analysis
-
-### E-Commerce Product Intelligence Platform
-End-to-end analytics and ML project covering customer behavior, product performance, forecasting, churn prediction, and segmentation, plus NLP and RAG components.
-
-**Skills used:** Python, Pandas, NumPy, Machine Learning, EDA, Forecasting, Customer Segmentation
-
-### Customer Churn Analysis — Power BI
-Power BI dashboard identifying churn patterns, high-risk customer segments, and retention drivers across service usage, contract types, and payment methods.
-
-**Skills used:** Power BI, Data Visualization, Churn Analysis, KPI Dashboarding
-
-### AI Impact on Jobs 2030 — Excel Dashboard
-Workforce analytics dashboard evaluating AI automation risk, job growth projections, salary trends, and future demand across industries.
-
-**Skills used:** Excel, Pivot Tables, Slicers, Workforce Analytics
-
-### Amazon Sales Data Analysis
-Exploratory data analysis on Amazon sales data to identify trends, product performance, and category-level business opportunities.
-
-**Skills used:** Python, Pandas, Matplotlib, Seaborn, EDA
+- **Data Analysis & Programming:** Python (Pandas, NumPy), SQL (joins, CTEs, window functions), data cleaning & preprocessing, exploratory data analysis
+- **Economics & Econometrics:** Stata, SPSS, Time-Series Analysis, ARDL Modeling, Cointegration & Bounds Testing, Error Correction Models, Regression & Hypothesis Testing
+- **Machine Learning:** Regression, Classification, Clustering, Forecasting, Customer Segmentation, Churn Prediction
+- **Tools:** Git/GitHub, Jupyter Notebook, SQLite, MS Office/PowerPoint
 
 ---
 
-## 💡 What I Can Do
+## Business Analysis Case Studies
 
-- Design and estimate econometric models (ARDL, regression, time-series) using Stata and SPSS
-- Test for stationarity, cointegration, and long-run/short-run relationships in economic data
-- Clean, transform, and analyze structured datasets
-- Write SQL queries for business analysis and reporting
-- Build interactive dashboards using Power BI, Tableau, and Excel
-- Perform exploratory data analysis using Python
-- Analyze customer behavior, sales trends, risk patterns, and macroeconomic trends
-- Apply machine learning fundamentals for segmentation, forecasting, and prediction
+### 📝 User Registration — Business Analysis Case Study
+Took a one-line business requirement ("let new users register on ownwebsite.com") and turned it into development-ready documentation: identified assumptions, ran a 5W1H SME questioning pass to close gaps, then produced a user story, 5 Given/When/Then acceptance criteria, a full use case with main/alternate/exception flows, a wireframe, and an activity diagram — with clear traceability from requirement to artifact.
+**Skills:** Requirement Analysis, Stakeholder Questioning, User Stories, Acceptance Criteria, Use Case Modeling, Wireframing, Activity Diagrams
 
----
-
-## 🎯 Career Focus
-
-Actively seeking entry-level opportunities in:
-Data Analyst · Business Analyst · BI Analyst · Economic/Research Analyst · MIS Analyst · Junior Data Analyst
+### 🛡️ Life Insurance Plan Selection — Use Case Specification
+Wrote the full use case specification for the "Select Plan Features" module of a life insurance self-service portal, covering the end-to-end flow from term selection through coverage amount and optional riders to Health Screening handoff. Documented age-based eligibility rules, coverage-tier business rules, rider eligibility logic, and the alternate/exception flows (age ineligibility, incomplete selection, save failure) a dev team would need to build against.
+**Skills:** Use Case Specification, Business Rules Definition, Functional Requirements, Process/User Flow Design, Insurance Domain Analysis
 
 ---
 
-## 📫 Connect With Me
+## Featured Projects
 
-- **GitHub:** [github.com/mukul816](https://github.com/mukul816)
-- **LinkedIn:** [linkedin.com/in/mukul-girdhar-560333357](https://www.linkedin.com/in/mukul-girdhar-560333357/)
-- **Email:** mukulgirdhar2734@gmail.com
+### 📊 Credit Risk Loan Portfolio — Power BI Report
+Built a dashboard for lending stakeholders to monitor portfolio exposure and borrower risk at a glance — surfacing default rates, repayment behavior, and loan-grade performance to support faster, better-informed credit decisions.
+**Skills:** Power BI, Power Query, DAX, KPI Reporting, Credit Risk Analysis
+
+### 🛒 Advanced SQL E-Commerce Business Analysis
+Analyzed 99,441 orders and 96K+ customers (Olist dataset, $15.4M+ revenue) to answer core business questions — who are the highest-value customers, where is delivery underperforming, and how do reviews affect repeat purchase — using CTEs, window functions, and RFM segmentation.
+**Skills:** SQL, SQLite, Customer & Revenue Analysis, RFM Segmentation
+
+### 🧠 E-Commerce Product Intelligence Platform
+End-to-end analytics platform combining BI reporting, recommendation systems, churn prediction, and forecasting to give a business a single view of customer behavior and product performance.
+**Skills:** Python, Machine Learning, Forecasting, Customer Segmentation
+
+### 💳 Impact of UPI Digital Payments on Household Consumption — M.A. Dissertation
+Applied econometric research testing whether India's UPI boom actually moved the needle on household spending, controlling for inflation and interest rates (2016–2026 quarterly data, ARDL model). **Finding:** UPI changed *how* people pay, not *how much* — a result relevant to any business assuming payment convenience drives volume.
+**Skills:** Stata, ARDL, Time-Series Econometrics, Macroeconomic Analysis
+
+### 📉 Customer Churn Analysis — Power BI
+Identified high-risk customer segments and the service/contract factors driving churn, packaged into an interactive dashboard for retention strategy decisions.
+**Skills:** Power BI, Churn Analysis, KPI Dashboarding
+
+### 🤖 AI Impact on Jobs 2030 — Excel Dashboard
+Modeled workforce exposure to automation risk, salary trends, and industry-level demand shifts to help stakeholders plan around future hiring needs.
+**Skills:** Excel, Pivot Tables, Workforce Analytics
+
+### 📦 Amazon Sales Data Analysis
+EDA on Amazon sales data to surface category-level performance and business opportunities.
+**Skills:** Python, Pandas, Matplotlib/Seaborn, Sales Analysis
+
+---
+
+## What I Bring to a Team
+
+- Frame ambiguous business problems as testable, data-driven questions
+- Gather requirements and define the KPIs that actually matter to stakeholders
+- Build the SQL/Python pipeline and the Power BI/Excel dashboard, end to end
+- Apply rigorous statistical/econometric methods when "is this real or noise" matters
+- Communicate findings in language decision-makers can act on, not just charts
+
+---
+
+## Career Focus
+
+Actively looking for entry-level roles in: **Business Analyst · Data Analyst · BI Analyst · MIS Analyst · Economic/Research Analyst**
+
+---
+
+## Connect With Me
+
+**GitHub:** github.com/mukul816
+**LinkedIn:** linkedin.com/in/mukul-girdhar-560333357
+**Email:** mukulgirdhar2734@gmail.com
